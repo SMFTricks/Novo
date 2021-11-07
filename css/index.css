@@ -1464,7 +1464,7 @@ div#header div.user img.avatar
 	border: 1px solid #4F949A;
 	float: left;
 	width: 260px;
-	height: 10px;
+	min-height: 10px;
 	padding: 10px 7px;
 	text-transform: uppercase;
 	font-weight: bold;
